@@ -3,4 +3,5 @@ pandas
 scikit-learn
 Flask
 streamlit
--e .
+dill
+# -e .
